@@ -1,0 +1,15 @@
+.containerM {
+  width: 770px;
+  background: #34343414;
+  border: 1px solid #bdbcbc;
+  box-shadow: 1px 1px 3px 1px #a19e9e;
+}
+.booklistOut {
+  border-color: rgb(0, 204, 255);
+}
+#bookAuth {
+  border: 1px solid rgb(0, 204, 255);
+}
+#res {
+  display: none;
+}
